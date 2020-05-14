@@ -1,0 +1,2 @@
+rootProject.name='FlaskTutorial'
+include ':app'
